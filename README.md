@@ -1,5 +1,5 @@
 ###### Profile Visitor
-![Profile views](https://gpvc.arturio.dev/Afran-rafi)
+![Profile views](https://gpvc.arturio.dev/fahim-afran)
 <h1 align="left">Hi 👋, I'm Fahim_Ahmed</h1>
 
 ##### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=040839&lines=A+Passionate+Full+Stack+Developer!!;A+Passionate+MERN+Stack+Developer!!;A+Passionate+Python+Developer!!)](https://git.io/typing-svg)
@@ -11,7 +11,7 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 - 📫 How to reach me: programming.fahim@gmail.com
 
 #### Trophy!!
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afran-rafi" alt="afran-rafi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afran-rafi" alt="fahim-ahmed" /></a> </p>
 
 ### Feel free to visit my social account!!
 
@@ -28,10 +28,10 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afran-rafi&theme=dracula&langs_count=8)](https://github.com/Afran-rafi/github-readme-stats)
-![Fahim Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=Afran-rafi&show_icons=true&theme=radical)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afran-rafi&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=Afran-rafi&theme=xcode)](https://github.com/Afran-rafi/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-afran&theme=dracula&langs_count=8)](https://github.com/fahim-afran/github-readme-stats)
+![Fahim Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=fahim-afran&show_icons=true&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fahim-afran&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=fahim-afran&theme=xcode)](https://github.com/fahim-afran/github-readme-activity-graph)
 
 ## Github Metrics!!
-![GitHub metrics](https://metrics.lecoq.io/AFran-rafi)
+![GitHub metrics](https://metrics.lecoq.io/fahim-afran)
