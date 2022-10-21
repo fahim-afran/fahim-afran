@@ -11,7 +11,7 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 - 📫 How to reach me: programming.fahim@gmail.com
 
 #### Trophy!!
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afran-rafi" alt="fahim-ahmed" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahim-afran" alt="fahim-ahmed" /></a> </p>
 
 ### Feel free to visit my social account!!
 
