@@ -19,7 +19,7 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 <a href="https://www.linkedin.com/in/fahimahmedcwf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahimahmedcwf/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18220842/afran-rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="afran_rafi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/fahimahmedcwf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/afran.rafi.520" height="30" width="40" /></a>
-<a href="https://instagram.com/fahim.ahmed.cwf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afran_rafiiii" height="30" width="40" /></a>
+<a href="https://instagram.com/fahimahmedcwf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afran_rafiiii" height="30" width="40" /></a>
 </p>
 
 ## I am still Learning these programming languages!!
