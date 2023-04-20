@@ -4,7 +4,7 @@
 
 ##### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=eafa3e&lines=A+Passionate+Full+Stack+Developer!!;A+Passionate+MERN+Stack+Developer!!;A+Passionate+Python+Developer!!)](https://git.io/typing-svg)
 A highly skilled developer with strong confidence with high quality and high-performance web applications seeks
-the rules of junior web Developer at Javascript, React, Node, and modern Javascript libraries
+the rules of web Developer at Javascript, React, Node, and modern Javascript libraries
 
 - 🌱 I’m currently learning Javascript, React, MERN Stack, Java and Python!!.
 - 👯 I’m looking to collaborate on Github
